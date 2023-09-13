@@ -1,0 +1,6 @@
+[submodule "robolog-java"]
+	path = robolog-java
+	url = git@github.com:jacobbaumel/robolog-java
+[submodule "robolog-cpp"]
+	path = robolog-cpp
+	url = git@github.com:jacobbaumel/robolog-cpp
